@@ -1,0 +1,13 @@
+train: C:\Users\Fauzan Andaru\Desktop\yolov5-master\data\train\images
+val: C:\Users\Fauzan Andaru\Desktop\yolov5-master\data\valid\images
+test: C:\Users\Fauzan Andaru\Desktop\yolov5-master\data\test\images
+
+nc: 1
+names: ['Sapi']
+
+roboflow:
+  workspace: avestal-lize-gb58z
+  project: ta-2
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/avestal-lize-gb58z/ta-2/dataset/9

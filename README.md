@@ -1,0 +1,1 @@
+A Cattle Detection system i made for a project using YOLOv5
